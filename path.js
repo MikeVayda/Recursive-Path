@@ -8,13 +8,14 @@ for(){
 path[]
 return path;
 }
+if(r>=p)
+return false;
 
+else if (true) {
 
+  return path
 
-
-
-
-
+}
 //Test code
 let testpath1 = buildPath(0.10,15);
 let testpath2 = buildPath(0.50,15);
